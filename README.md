@@ -13,7 +13,9 @@ La aplicación estará disponible en el App Store para su descarga
 # Características
 Con esta aplicación podrás crear todas las colecciones que necesites inventariar o controlar. En cada colección podrás añadir todos los elementos que tengas, además podrás ver cuántos te faltan si la colección tiene un número determinado de elementos.
 
-Anímate y da de alta todas las diferentes colecciones que tienes, desde sellos, libros o películas hasta las diferentes herramientas que puedas tener.
+Cada colección podrás personalizarla con su propio color y su icono, así podrás identificarla de forma más sencilla. Además, podrás asignar estrellas a cada una, cuantas más estrellas más importante es para tí, con lo que serán las primeras de la lista de colecciones.
+
+Anímate y da de alta todas las diferentes colecciones que tienes, desde sellos, libros o películas hasta las diferentes herramientas o utensilios que puedas tener.
 
 # Compatibilidad
 La aplicación es compatible con cualquier dispositivo iOS o iPadOS a partir de la versión 16, también puede ser instalado en macOS con M1 o superior.
