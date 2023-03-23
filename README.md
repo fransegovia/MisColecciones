@@ -25,11 +25,8 @@ MisColecciones no recoge ninguna información personal ni de ningún tipo, toda 
 <!--
 <img src="https://user-images.githubusercontent.com/124678480/220031958-666980fc-9a4d-4a93-b3ba-5f116bf223b6.png" width=30% height=30%>  <img src="https://user-images.githubusercontent.com/124678480/220031992-aaa43707-7b58-417e-907e-18ca2c810f7d.png" width=30% height=30%>  <img src= "https://user-images.githubusercontent.com/124678480/220032006-17658d57-7fc1-4b0b-826b-b5dc445d1388.png" width=30% height=30%>
 -->
-<img src="https://user-images.githubusercontent.com/124678480/227162007-cd296c01-24ba-4272-9574-8e712471cc7a.png" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/124678480/227162067-cc8763c5-3a0c-45eb-8e4f-7b795b919f6e.png" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/124678480/227162079-ec3bf8c5-5823-419d-8751-109b39e1cd18.png" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/124678480/227162104-ace86de2-0b16-4f4a-8f09-a529b2f8e7bd.png" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/124678480/227162116-f5ad5ec9-04f5-49e8-ba82-9c9d1741ba76.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/124678480/227162007-cd296c01-24ba-4272-9574-8e712471cc7a.png" width=30% height=30%>  <img src="https://user-images.githubusercontent.com/124678480/227162067-cc8763c5-3a0c-45eb-8e4f-7b795b919f6e.png" width=30% height=30%>  <img src="https://user-images.githubusercontent.com/124678480/227162079-ec3bf8c5-5823-419d-8751-109b39e1cd18.png" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/124678480/227162104-ace86de2-0b16-4f4a-8f09-a529b2f8e7bd.png" width=30% height=30%>  <img src="https://user-images.githubusercontent.com/124678480/227162116-f5ad5ec9-04f5-49e8-ba82-9c9d1741ba76.png" width=30% height=30%>
 
 # Mantenimiento
 https://github.com/fransegovia
